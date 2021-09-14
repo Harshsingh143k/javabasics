@@ -15,6 +15,9 @@ public class Instance {
         a=x;
         b=y;
     }
+    public void meth(){
+        System.out.println("Inside meth");
+    }
 //    public void show(){
 //        System.out.println(a);
 //        System.out.println(b);
